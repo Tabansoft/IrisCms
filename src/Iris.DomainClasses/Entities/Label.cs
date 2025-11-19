@@ -2,6 +2,9 @@
 
 namespace Iris.DomainClasses.Entities
 {
+    /// <summary>
+    /// برچسب
+    /// </summary>
     public class Label
     {
         public virtual int Id { get; set; }
